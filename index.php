@@ -12,7 +12,7 @@
         if(count($results) > 0){
             $user = $results;
         }
-        //hola php
+        
     }
 ?>
 
